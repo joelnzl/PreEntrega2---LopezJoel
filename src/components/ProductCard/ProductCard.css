@@ -1,0 +1,9 @@
+.product-card{
+    width: 50vw;
+    border-radius: 10px;
+    padding: 2rem;
+    margin: auto;
+    text-align:center;
+    align-items: center;
+    background-color: white;
+}
